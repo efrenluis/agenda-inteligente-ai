@@ -1,0 +1,7 @@
+{
+  "name": "Agenda Inteligente AI",
+  "description": "Una aplicación de agenda y notas inteligente que utiliza la API de Gemini para sugerir automáticamente categorías para tus notas, ayudándote a mantenerte organizado sin esfuerzo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
